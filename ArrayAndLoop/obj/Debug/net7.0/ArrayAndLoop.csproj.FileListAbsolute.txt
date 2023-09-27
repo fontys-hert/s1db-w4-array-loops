@@ -1,0 +1,15 @@
+/Users/timo/projects/tmp/ArrayAndLoop/ArrayAndLoop/bin/Debug/net7.0/ArrayAndLoop
+/Users/timo/projects/tmp/ArrayAndLoop/ArrayAndLoop/bin/Debug/net7.0/ArrayAndLoop.deps.json
+/Users/timo/projects/tmp/ArrayAndLoop/ArrayAndLoop/bin/Debug/net7.0/ArrayAndLoop.runtimeconfig.json
+/Users/timo/projects/tmp/ArrayAndLoop/ArrayAndLoop/bin/Debug/net7.0/ArrayAndLoop.dll
+/Users/timo/projects/tmp/ArrayAndLoop/ArrayAndLoop/bin/Debug/net7.0/ArrayAndLoop.pdb
+/Users/timo/projects/tmp/ArrayAndLoop/ArrayAndLoop/obj/Debug/net7.0/ArrayAndLoop.csproj.AssemblyReference.cache
+/Users/timo/projects/tmp/ArrayAndLoop/ArrayAndLoop/obj/Debug/net7.0/ArrayAndLoop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/timo/projects/tmp/ArrayAndLoop/ArrayAndLoop/obj/Debug/net7.0/ArrayAndLoop.AssemblyInfoInputs.cache
+/Users/timo/projects/tmp/ArrayAndLoop/ArrayAndLoop/obj/Debug/net7.0/ArrayAndLoop.AssemblyInfo.cs
+/Users/timo/projects/tmp/ArrayAndLoop/ArrayAndLoop/obj/Debug/net7.0/ArrayAndLoop.csproj.CoreCompileInputs.cache
+/Users/timo/projects/tmp/ArrayAndLoop/ArrayAndLoop/obj/Debug/net7.0/ArrayAndLoop.dll
+/Users/timo/projects/tmp/ArrayAndLoop/ArrayAndLoop/obj/Debug/net7.0/refint/ArrayAndLoop.dll
+/Users/timo/projects/tmp/ArrayAndLoop/ArrayAndLoop/obj/Debug/net7.0/ArrayAndLoop.pdb
+/Users/timo/projects/tmp/ArrayAndLoop/ArrayAndLoop/obj/Debug/net7.0/ArrayAndLoop.genruntimeconfig.cache
+/Users/timo/projects/tmp/ArrayAndLoop/ArrayAndLoop/obj/Debug/net7.0/ref/ArrayAndLoop.dll
